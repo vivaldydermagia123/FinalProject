@@ -1,0 +1,221 @@
+ID CT,FUNCTION,MATERIAL,DAY_RUN,RR,NAOCL,AVG_T_RETURN,CONDUCT LIMIT,AVG_FRC,AVG_CHLORIDE,TOTAL BACTERIA,BACTERIA_STATUS
+Cooling Tower Ref A,PROCESS,Stainless steel,30,400,297.69,32.1,1200,0.21,158.07,1000,Acceptable
+Cooling Tower Fract B,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,2400,1997.31,35.4,1500,0.19,293.87,1000,Acceptable
+Cooling Tower Ref C,PROCESS,Stainless steel,30,450,716.54,39.3,1200,0.19,185.07,1000,Acceptable
+Cooling Tower Fract D,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,700,1076.54,31.8,700,0.26,127.24,1000,Acceptable
+Cooling Tower Refra E,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,2496,1041.92,32.6,1500,0.14,240.24,10000,Acceptable
+Cooling Tower Ref F,PROCESS,Stainless steel,30,1092,1052.31,45.4,1200,0.27,165.53,10000,Acceptable
+Cooling Tower Fract G,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,624,616.15,38.1,700,0.23,101.18,10000,Acceptable
+Cooling Tower Ref H,PROCESS,Stainless steel,18,1500,353.08,39.5,1200,0.15,102.56,1000,Acceptable
+Cooling Tower Fract I,FRACTIONATION,"Stainless steel, Galvanized",29,2000,695.77,36.7,1500,0.18,177.03,1000,Acceptable
+Cooling Tower Fract J,FRACTIONATION,"Stainless steel, Galvanized",26,2500,948.46,31.8,1500,0.22,216.79,1000,Acceptable
+Cooling Tower Ref K,PROCESS,Stainless steel,29,350,148.85,33.9,700,0.18,101.07,10000,Acceptable
+Cooling Tower Ref A,PROCESS,Stainless steel,31,400,245.77,32.1,1200,0.26,157.77,10000,Acceptable
+Cooling Tower Fract B,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,2400,1800.0,35.4,1500,0.21,301.77,100000,Not Acceptable
+Cooling Tower Ref C,PROCESS,Stainless steel,31,450,695.77,39.3,1200,0.31,156.07,1000,Acceptable
+Cooling Tower Fract D,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,700,792.69,31.8,700,0.23,124.43,1000,Acceptable
+Cooling Tower Refra E,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,2496,1202.07,32.6,1500,0.11,271.88,10000,Acceptable
+Cooling Tower Ref F,PROCESS,Stainless steel,31,1092,844.61,45.4,1200,0.45,165.83,1000,Acceptable
+Cooling Tower Fract G,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,624,654.23,38.1,700,0.4,85.04,1000,Acceptable
+Cooling Tower Ref H,PROCESS,Stainless steel,18,1500,446.54,39.5,1200,0.2,112.45,10000,Acceptable
+Cooling Tower Fract I,FRACTIONATION,"Stainless steel, Galvanized",31,2000,1080.0,36.7,1500,0.38,210.04,10000,Acceptable
+Cooling Tower Fract J,FRACTIONATION,"Stainless steel, Galvanized",31,2500,1003.85,31.8,1500,0.18,183.44,10000,Acceptable
+Cooling Tower Ref K,PROCESS,Stainless steel,28,350,176.54,33.9,700,0.31,98.75,10000,Acceptable
+Cooling Tower Ref A,PROCESS,Stainless steel,31,400,380.77,32.1,1200,0.2,179.24,10000,Acceptable
+Cooling Tower Fract B,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,2400,1990.38,35.4,1500,0.29,276.08,1000,Acceptable
+Cooling Tower Ref C,PROCESS,Stainless steel,31,450,702.69,39.3,1200,0.3,205.02,1000,Acceptable
+Cooling Tower Fract D,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,700,730.38,31.8,700,0.16,105.61,1000,Acceptable
+Cooling Tower Refra E,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,2496,1048.85,32.6,1500,0.14,227.11,10000,Acceptable
+Cooling Tower Ref F,PROCESS,Stainless steel,31,1092,581.54,45.4,1200,0.23,146.77,10000,Acceptable
+Cooling Tower Fract G,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,624,675.0,38.1,700,0.26,100.63,10000,Acceptable
+Cooling Tower Ref H,PROCESS,Stainless steel,20,1500,349.62,39.5,1200,0.61,109.53,1000,Acceptable
+Cooling Tower Fract I,FRACTIONATION,"Stainless steel, Galvanized",31,2000,1270.38,36.7,1500,0.33,196.78,10000,Acceptable
+Cooling Tower Fract J,FRACTIONATION,"Stainless steel, Galvanized",31,2500,1000.38,31.8,1500,0.21,201.09,100000,Not Acceptable
+Cooling Tower Ref K,PROCESS,Stainless steel,29,350,270.0,33.9,700,0.31,133.19,10000,Acceptable
+Cooling Tower Ref A,PROCESS,Stainless steel,22,400,204.23,32.1,1200,0.16,160.37,100000,Not Acceptable
+Cooling Tower Fract B,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",22,2400,1229.29,35.4,1500,0.29,297.47,10000,Acceptable
+Cooling Tower Ref C,PROCESS,Stainless steel,22,450,846.35,39.3,1200,0.86,173.84,1000,Acceptable
+Cooling Tower Fract D,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",22,700,661.15,31.8,700,0.37,133.66,10000,Acceptable
+Cooling Tower Refra E,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",22,2496,384.23,32.6,1500,0.03,254.48,10000,Acceptable
+Cooling Tower Ref F,PROCESS,Stainless steel,24,1092,491.54,45.4,1200,0.27,104.33,10000,Acceptable
+Cooling Tower Fract G,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",24,624,498.46,38.1,700,0.36,124.95,10000,Acceptable
+Cooling Tower Ref H,PROCESS,Stainless steel,15,1500,401.54,39.5,1200,0.32,107.97,10000,Acceptable
+Cooling Tower Fract I,FRACTIONATION,"Stainless steel, Galvanized",24,2000,481.15,36.7,1500,0.3,196.25,1000,Acceptable
+Cooling Tower Fract J,FRACTIONATION,"Stainless steel, Galvanized",24,2500,709.61,31.8,1500,0.26,232.25,1000,Acceptable
+Cooling Tower Ref K,PROCESS,Stainless steel,22,350,173.08,33.9,700,0.3,120.12,10000,Acceptable
+Cooling Tower Ref A,PROCESS,Stainless steel,14,400,207.69,32.1,1200,0.14,165.66,100000,Not Acceptable
+Cooling Tower Fract B,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,2400,1661.54,35.4,1500,0.33,237.39,10000,Acceptable
+Cooling Tower Ref C,PROCESS,Stainless steel,31,450,1160.97,39.3,1200,0.32,259.52,10000,Acceptable
+Cooling Tower Fract D,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,700,765.0,31.8,700,0.32,137.38,1000,Acceptable
+Cooling Tower Refra E,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,2496,983.08,32.6,1500,0.15,217.22,100000,Not Acceptable
+Cooling Tower Ref F,PROCESS,Stainless steel,31,1092,550.38,45.4,1200,0.26,95.45,10000,Acceptable
+Cooling Tower Fract G,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,624,761.54,38.1,700,0.53,133.39,10000,Acceptable
+Cooling Tower Ref H,PROCESS,Stainless steel,31,1500,598.85,39.5,1200,0.4,155.56,10000,Acceptable
+Cooling Tower Fract I,FRACTIONATION,"Stainless steel, Galvanized",31,2000,898.27,36.7,1500,0.12,261.86,100000,Not Acceptable
+Cooling Tower Fract J,FRACTIONATION,"Stainless steel, Galvanized",31,2500,972.69,31.8,1500,0.23,207.14,100000,Not Acceptable
+Cooling Tower Ref K,PROCESS,Stainless steel,31,350,152.31,33.9,700,0.17,103.29,100000,Not Acceptable
+Cooling Tower Ref A,PROCESS,Stainless steel,0,400,0.0,32.1,1200,0.0,128.68,0,Acceptable
+Cooling Tower Fract B,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,2400,1547.98,35.4,1500,0.25,272.14,10000,Acceptable
+Cooling Tower Ref C,PROCESS,Stainless steel,30,450,630.0,39.3,1200,0.41,231.72,10000,Acceptable
+Cooling Tower Fract D,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,700,789.23,31.8,700,0.3,134.96,10000,Acceptable
+Cooling Tower Refra E,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",29,2496,1647.69,32.6,1500,0.33,230.87,10000,Acceptable
+Cooling Tower Ref F,PROCESS,Stainless steel,28,1092,633.46,45.4,1200,0.26,86.01,10000,Acceptable
+Cooling Tower Fract G,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,624,737.31,38.1,700,0.56,131.41,10000,Acceptable
+Cooling Tower Ref H,PROCESS,Stainless steel,25,1500,595.38,39.5,1200,0.24,104.91,10000,Acceptable
+Cooling Tower Fract I,FRACTIONATION,"Stainless steel, Galvanized",30,2000,1277.2,36.7,1500,0.15,289.64,10000,Acceptable
+Cooling Tower Fract J,FRACTIONATION,"Stainless steel, Galvanized",29,2500,1498.84,31.8,1500,0.17,168.85,10000,Acceptable
+Cooling Tower Ref K,PROCESS,Stainless steel,20,350,141.92,33.9,700,1.31,78.12,1000,Acceptable
+Cooling Tower Ref A,PROCESS,Stainless steel,30,400,231.92,32.1,1200,0.29,128.86,1000,Acceptable
+Cooling Tower Fract B,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",29,2400,1346.54,35.4,1500,0.69,287.61,10000,Acceptable
+Cooling Tower Ref C,PROCESS,Stainless steel,30,450,726.92,39.3,1200,0.24,235.11,1000,Acceptable
+Cooling Tower Fract D,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",29,700,664.61,31.8,700,0.26,132.01,10000,Acceptable
+Cooling Tower Refra E,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,2496,1152.69,32.6,1500,0.4,156.64,1000,Acceptable
+Cooling Tower Ref F,PROCESS,Stainless steel,30,1092,630.0,45.4,1200,0.2,107.21,10000,Acceptable
+Cooling Tower Fract G,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,624,598.85,38.1,700,0.05,141.28,10000,Acceptable
+Cooling Tower Ref H,PROCESS,Stainless steel,29,1500,650.77,39.5,1200,0.46,103.12,10000,Acceptable
+Cooling Tower Fract I,FRACTIONATION,"Stainless steel, Galvanized",30,2000,1211.54,36.7,1500,0.19,166.57,10000,Acceptable
+Cooling Tower Fract J,FRACTIONATION,"Stainless steel, Galvanized",30,2500,1093.85,31.8,1500,0.25,181.03,10000,Acceptable
+Cooling Tower Ref K,PROCESS,Stainless steel,27,350,339.23,33.9,700,0.6,113.34,10000,Acceptable
+Cooling Tower Ref A,PROCESS,Stainless steel,31,400,252.69,32.1,1200,0.34,202.97,1000,Acceptable
+Cooling Tower Fract B,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,2400,2655.0,35.4,1500,0.45,220.44,1000,Acceptable
+Cooling Tower Ref C,PROCESS,Stainless steel,18,450,405.0,39.3,1200,0.33,184.69,1000,Acceptable
+Cooling Tower Fract D,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,700,775.38,31.8,700,0.18,108.15,100000,Not Acceptable
+Cooling Tower Refra E,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,2496,771.92,32.6,1500,0.24,125.69,1000,Acceptable
+Cooling Tower Ref F,PROCESS,Stainless steel,28,1092,771.92,45.4,1200,0.77,173.18,1000,Acceptable
+Cooling Tower Fract G,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,624,612.69,38.1,700,0.36,120.8,100000,Not Acceptable
+Cooling Tower Ref H,PROCESS,Stainless steel,18,1500,249.62,39.5,1200,0.2,116.24,10000,Acceptable
+Cooling Tower Fract I,FRACTIONATION,"Stainless steel, Galvanized",25,2000,556.28,36.7,1500,0.28,168.43,10000,Acceptable
+Cooling Tower Fract J,FRACTIONATION,"Stainless steel, Galvanized",19,2500,900.0,31.8,1500,0.14,137.99,10000,Acceptable
+Cooling Tower Ref K,PROCESS,Stainless steel,29,350,321.92,33.9,700,0.48,72.61,10000,Acceptable
+Cooling Tower Ref A,PROCESS,Stainless steel,16,400,169.62,32.1,1200,0.24,308.0,1000,Acceptable
+Cooling Tower Fract B,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,2400,1554.23,35.4,1500,0.26,188.41,100000,Not Acceptable
+Cooling Tower Ref C,PROCESS,Stainless steel,31,450,737.31,39.3,1200,0.25,184.14,100000,Not Acceptable
+Cooling Tower Fract D,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,700,1253.08,31.8,700,0.51,142.43,1000,Acceptable
+Cooling Tower Refra E,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,2496,1308.46,32.6,1500,0.18,262.95,1000,Acceptable
+Cooling Tower Ref F,PROCESS,Stainless steel,30,1092,557.31,45.4,1200,0.07,202.28,10000,Acceptable
+Cooling Tower Fract G,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,624,591.92,38.1,700,0.24,135.63,10000,Acceptable
+Cooling Tower Ref H,PROCESS,Stainless steel,31,1500,661.15,39.5,1200,0.38,107.71,10000,Acceptable
+Cooling Tower Fract I,FRACTIONATION,"Stainless steel, Galvanized",31,2000,1197.69,36.7,1500,0.26,126.75,10000,Acceptable
+Cooling Tower Fract J,FRACTIONATION,"Stainless steel, Galvanized",31,2500,1152.69,31.8,1500,0.18,156.91,10000,Acceptable
+Cooling Tower Ref K,PROCESS,Stainless steel,22,350,283.85,33.9,700,0.28,84.19,1000,Acceptable
+Cooling Tower Ref A,PROCESS,Stainless steel,30,400,294.23,32.1,1200,0.19,230.05,100000,Not Acceptable
+Cooling Tower Fract B,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,2400,2045.77,35.4,1500,0.17,183.68,100000,Not Acceptable
+Cooling Tower Ref C,PROCESS,Stainless steel,30,450,1086.92,39.3,1200,0.67,174.96,10000,Acceptable
+Cooling Tower Fract D,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,700,1180.38,31.8,700,0.67,119.16,10000,Acceptable
+Cooling Tower Refra E,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,2496,1649.42,32.6,1500,0.25,284.43,100000,Not Acceptable
+Cooling Tower Ref F,PROCESS,Stainless steel,30,1092,720.0,45.4,1200,0.25,247.75,100000,Not Acceptable
+Cooling Tower Fract G,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,624,747.69,38.1,700,0.14,118.6,100000,Not Acceptable
+Cooling Tower Ref H,PROCESS,Stainless steel,30,1500,920.42,39.5,1200,0.16,129.38,10000,Acceptable
+Cooling Tower Fract I,FRACTIONATION,"Stainless steel, Galvanized",30,2000,1436.54,36.7,1500,0.23,125.04,100000,Not Acceptable
+Cooling Tower Fract J,FRACTIONATION,"Stainless steel, Galvanized",30,2500,1215.0,31.8,1500,0.16,150.44,100000,Not Acceptable
+Cooling Tower Ref K,PROCESS,Stainless steel,30,350,197.31,33.9,700,0.39,69.23,100000,Not Acceptable
+Cooling Tower Ref A,PROCESS,Stainless steel,26,400,526.15,32.1,1200,0.32,210.95,10000,Acceptable
+Cooling Tower Fract B,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",28,2400,1298.2,35.4,1500,0.22,169.38,100000,Not Acceptable
+Cooling Tower Ref C,PROCESS,Stainless steel,28,450,491.54,39.3,1200,0.25,1800.36,1000,Acceptable
+Cooling Tower Fract D,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",28,700,730.28,31.8,700,0.57,142.32,10000,Acceptable
+Cooling Tower Refra E,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",28,2496,671.654,32.6,1500,0.12,97.17,10000,Acceptable
+Cooling Tower Ref F,PROCESS,Stainless steel,28,1092,754.61,45.4,1200,0.68,168.11,10000,Acceptable
+Cooling Tower Fract G,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",8,624,366.26,38.1,700,0.18,119.29,1000,Acceptable
+Cooling Tower Ref H,PROCESS,Stainless steel,12,1500,276.92,39.5,1200,1.23,150.08,10000,Acceptable
+Cooling Tower Fract I,FRACTIONATION,"Stainless steel, Galvanized",13,2000,481.15,36.7,1500,0.06,122.29,100000,Not Acceptable
+Cooling Tower Fract J,FRACTIONATION,"Stainless steel, Galvanized",28,2500,933.61,31.8,1500,0.14,119.45,1000,Acceptable
+Cooling Tower Ref K,PROCESS,Stainless steel,28,350,159.23,33.9,700,0.26,63.72,10000,Acceptable
+Cooling Tower Ref A,PROCESS,Stainless steel,31,400,190.38,32.1,1200,0.62,145.32,1000,Acceptable
+Cooling Tower Fract B,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",29,2400,754.61,35.4,1500,0.1,134.545,100000,Not Acceptable
+Cooling Tower Ref C,PROCESS,Stainless steel,24,450,436.37,39.3,1200,0.07,87.02,100000,Not Acceptable
+Cooling Tower Fract D,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",24,700,436.15,31.8,700,0.19,120.91,10000,Acceptable
+Cooling Tower Refra E,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",29,2496,965.77,32.6,1500,0.2,161.48,1000,Acceptable
+Cooling Tower Ref F,PROCESS,Stainless steel,29,1092,841.18,45.4,1200,0.28,123.41,10000,Acceptable
+Cooling Tower Fract G,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",29,624,553.18,38.1,700,0.08,126.16,10000,Acceptable
+Cooling Tower Ref H,PROCESS,Stainless steel,20,1500,645.58,39.5,1200,0.53,152.6,10000,Acceptable
+Cooling Tower Fract I,FRACTIONATION,"Stainless steel, Galvanized",20,2000,571.15,36.7,1500,0.07,175.85,100000,Not Acceptable
+Cooling Tower Fract J,FRACTIONATION,"Stainless steel, Galvanized",31,2500,1055.86,31.8,1500,0.08,167.37,100000,Not Acceptable
+Cooling Tower Ref K,PROCESS,Stainless steel,31,350,103.85,33.9,700,0.18,134.21,10000,Acceptable
+Cooling Tower Ref A,PROCESS,Stainless steel,25,400,301.55,32.1,1200,0.37,207.74,1000,Acceptable
+Cooling Tower Fract B,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,2400,2208.83,35.4,1500,0.43,227.31,1000,Acceptable
+Cooling Tower Ref C,PROCESS,Stainless steel,30,450,396.04,39.3,1200,0.14,141.54,10000,Acceptable
+Cooling Tower Fract D,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,700,755.31,31.8,700,0.14,109.43,100000,Not Acceptable
+Cooling Tower Refra E,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,2496,1771.0,32.6,1500,0.45,255.09,10000,Acceptable
+Cooling Tower Ref F,PROCESS,Stainless steel,25,1092,729.72,45.4,1200,0.23,222.9,100000,Not Acceptable
+Cooling Tower Fract G,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,624,647.34,38.1,700,0.1,134.25,100000,Not Acceptable
+Cooling Tower Ref H,PROCESS,Stainless steel,18,1500,467.34,39.5,1200,0.81,159.65,10000,Acceptable
+Cooling Tower Fract I,FRACTIONATION,"Stainless steel, Galvanized",30,2000,1612.45,36.7,1500,0.55,102.75,10000,Acceptable
+Cooling Tower Fract J,FRACTIONATION,"Stainless steel, Galvanized",30,2500,1474.01,31.8,1500,0.21,171.49,100000,Not Acceptable
+Cooling Tower Ref K,PROCESS,Stainless steel,30,350,318.83,33.9,700,0.58,52.0,1000,Acceptable
+Cooling Tower Ref A,PROCESS,Stainless steel,31,400,354.21,32.1,1200,0.38,204.29,1000,Acceptable
+Cooling Tower Fract B,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,2400,978.98,35.4,1500,0.15,191.38,100000,Not Acceptable
+Cooling Tower Ref C,PROCESS,Stainless steel,31,450,355.87,39.3,1200,0.57,180.01,10000,Acceptable
+Cooling Tower Fract D,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,700,532.41,31.8,700,0.46,115.52,1000,Acceptable
+Cooling Tower Refra E,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,2496,783.04,32.6,1500,0.3,174.88,1000,Acceptable
+Cooling Tower Ref F,PROCESS,Stainless steel,31,1092,786.68,45.4,1200,0.76,166.22,1000,Acceptable
+Cooling Tower Fract G,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,624,565.02,38.1,700,0.62,120.28,1000,Acceptable
+Cooling Tower Ref H,PROCESS,Stainless steel,27,1500,698.3,39.5,1200,0.24,140.0,10000,Acceptable
+Cooling Tower Fract I,FRACTIONATION,"Stainless steel, Galvanized",31,2000,713.81,36.7,1500,0.36,128.85,10000,Acceptable
+Cooling Tower Fract J,FRACTIONATION,"Stainless steel, Galvanized",31,2500,1017.0,31.8,1500,0.25,224.93,10000,Acceptable
+Cooling Tower Ref K,PROCESS,Stainless steel,31,350,209.79,33.9,700,0.23,111.13,10000,Acceptable
+Cooling Tower Ref A,PROCESS,Stainless steel,30,400,327.15,32.1,1200,0.9,169.7,100000,Not Acceptable
+Cooling Tower Fract B,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,2400,1385.5,35.4,1500,0.09,227.16,1000,Acceptable
+Cooling Tower Ref C,PROCESS,Stainless steel,30,450,1275.0,39.3,1200,0.58,182.25,10000,Acceptable
+Cooling Tower Fract D,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,700,320.19,31.8,700,0.08,160.34,1000,Acceptable
+Cooling Tower Refra E,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,2496,1367.31,32.6,1500,0.34,161.59,1000,Acceptable
+Cooling Tower Ref F,PROCESS,Stainless steel,30,1092,385.96,45.4,1200,0.23,110.63,10000,Acceptable
+Cooling Tower Fract G,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,624,752.88,38.1,700,0.2,154.68,10000,Acceptable
+Cooling Tower Ref H,PROCESS,Stainless steel,30,1500,505.4,39.5,1200,0.16,130.71,1000,Acceptable
+Cooling Tower Fract I,FRACTIONATION,"Stainless steel, Galvanized",30,2000,1509.23,36.7,1500,0.31,160.28,1000,Acceptable
+Cooling Tower Fract J,FRACTIONATION,"Stainless steel, Galvanized",30,2500,1637.31,31.8,1500,0.36,197.99,10000,Acceptable
+Cooling Tower Ref K,PROCESS,Stainless steel,30,350,160.98,33.9,700,0.16,39.75,100000,Not Acceptable
+Cooling Tower Ref A,PROCESS,Stainless steel,30,400,439.61,32.1,1200,0.16,173.75,1000,Acceptable
+Cooling Tower Fract B,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,2400,1801.73,35.4,1500,0.36,205.46,10000,Acceptable
+Cooling Tower Ref C,PROCESS,Stainless steel,30,450,822.11,39.3,1200,0.22,140.53,10000,Acceptable
+Cooling Tower Fract D,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,700,1007.55,31.8,700,0.35,111.2,10000,Acceptable
+Cooling Tower Refra E,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,2496,1995.57,32.6,1500,0.56,173.89,1000,Acceptable
+Cooling Tower Ref F,PROCESS,Stainless steel,30,1092,965.77,45.4,1200,0.74,208.13,1000000,Not Acceptable
+Cooling Tower Fract G,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,624,520.96,38.1,700,0.1,136.46,10000,Acceptable
+Cooling Tower Ref H,PROCESS,Stainless steel,6,1500,508.0,39.5,1200,0.23,200.1,10000,Acceptable
+Cooling Tower Fract I,FRACTIONATION,"Stainless steel, Galvanized",30,2000,231.92,36.7,1500,0.07,96.93,100000,Not Acceptable
+Cooling Tower Fract J,FRACTIONATION,"Stainless steel, Galvanized",30,2500,1431.34,31.8,1500,0.24,210.41,100000,Not Acceptable
+Cooling Tower Ref K,PROCESS,Stainless steel,30,350,193.91,33.9,700,0.42,60.26,10000,Acceptable
+Cooling Tower Ref A,PROCESS,Stainless steel,30,400,531.04,32.1,1200,0.38,180.72,100000,Not Acceptable
+Cooling Tower Fract B,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",28,2400,585.0,35.4,1500,0.09,193.39,100000,Not Acceptable
+Cooling Tower Ref C,PROCESS,Stainless steel,8,450,467.31,39.3,1200,0.26,188.3,10000,Acceptable
+Cooling Tower Fract D,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",28,700,804.5,31.8,700,0.55,140.93,10000,Acceptable
+Cooling Tower Refra E,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,2496,1050.27,32.6,1500,0.19,127.57,10000,Acceptable
+Cooling Tower Ref F,PROCESS,Stainless steel,30,1092,1001.78,45.4,1200,0.15,124.72,10000,Acceptable
+Cooling Tower Fract G,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,624,761.54,38.1,700,0.13,133.04,10000,Acceptable
+Cooling Tower Ref H,PROCESS,Stainless steel,30,1500,422.31,39.5,1200,0.23,149.07,1000,Acceptable
+Cooling Tower Fract I,FRACTIONATION,"Stainless steel, Galvanized",30,2000,929.85,36.7,1500,0.2,119.12,100000,Not Acceptable
+Cooling Tower Fract J,FRACTIONATION,"Stainless steel, Galvanized",30,2500,1049.97,31.8,1500,0.23,131.11,10000,Acceptable
+Cooling Tower Ref K,PROCESS,Stainless steel,30,350,508.18,33.9,700,0.32,57.56,100000,Not Acceptable
+Cooling Tower Ref A,PROCESS,Stainless steel,30,400,538.03,32.1,1200,0.2,160.14,10000,Acceptable
+Cooling Tower Fract B,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,2400,1324.6,35.4,1500,0.2,185.8,10000,Acceptable
+Cooling Tower Ref C,PROCESS,Stainless steel,30,450,507.48,39.3,1200,0.22,176.37,10000,Acceptable
+Cooling Tower Fract D,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,700,837.69,31.8,700,0.26,132.11,10000,Acceptable
+Cooling Tower Refra E,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,2496,1084.92,32.6,1500,0.24,154.34,10000,Acceptable
+Cooling Tower Ref F,PROCESS,Stainless steel,30,1092,560.8,45.4,1200,0.29,155.88,1000,Acceptable
+Cooling Tower Fract G,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,624,377.34,38.1,700,0.1,113.7,100000,Not Acceptable
+Cooling Tower Ref H,PROCESS,Stainless steel,8,1500,207.69,39.5,1200,0.26,161.46,10000,Acceptable
+Cooling Tower Fract I,FRACTIONATION,"Stainless steel, Galvanized",8,2000,384.23,36.7,1500,0.08,130.17,10000,Acceptable
+Cooling Tower Fract J,FRACTIONATION,"Stainless steel, Galvanized",30,2500,890.37,31.8,1500,0.23,130.56,10000,Acceptable
+Cooling Tower Ref K,PROCESS,Stainless steel,22,350,803.51,33.9,700,0.26,115.07,1000,Acceptable
+Cooling Tower Ref A,PROCESS,Stainless steel,29,400,419.56,32.1,1200,0.4,168.67,10000,Acceptable
+Cooling Tower Fract B,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,2400,2054.8,35.4,1500,0.35,236.38,10000,Acceptable
+Cooling Tower Ref C,PROCESS,Stainless steel,31,450,172.8,39.3,1200,0.47,106.68,10000,Acceptable
+Cooling Tower Fract D,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,700,171.12,31.8,700,0.34,102.56,10000,Acceptable
+Cooling Tower Refra E,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,2496,1516.9,32.6,1500,0.39,161.11,1000,Acceptable
+Cooling Tower Ref F,PROCESS,Stainless steel,31,1092,419.56,45.4,1200,0.61,95.41,100000,Not Acceptable
+Cooling Tower Fract G,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,624,649.5,38.1,700,0.49,101.68,1000,Acceptable
+Cooling Tower Ref H,PROCESS,Stainless steel,23,1500,283.18,39.5,1200,0.16,104.8,1000,Acceptable
+Cooling Tower Fract I,FRACTIONATION,"Stainless steel, Galvanized",31,2000,871.32,36.7,1500,0.19,72.93,1000,Acceptable
+Cooling Tower Fract J,FRACTIONATION,"Stainless steel, Galvanized",31,2500,1452.54,31.8,1500,0.38,186.99,1000,Acceptable
+Cooling Tower Ref K,PROCESS,Stainless steel,27,350,687.0,33.9,700,0.2,43.95,10000,Acceptable
+Cooling Tower Ref A,PROCESS,Stainless steel,31,400,265.87,32.1,1200,0.61,211.7,1000,Acceptable
+Cooling Tower Fract B,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,2400,3080.8,35.4,1500,0.7,413.7,10000,Acceptable
+Cooling Tower Ref C,PROCESS,Stainless steel,12,450,427.23,39.3,1200,0.41,162.3,1000,Acceptable
+Cooling Tower Fract D,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,700,823.85,31.8,700,0.61,170.3,1000,Acceptable
+Cooling Tower Refra E,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",31,2496,1164.2,32.6,1500,0.36,135.63,1000,Acceptable
+Cooling Tower Ref F,PROCESS,Stainless steel,31,1092,918.4,45.4,1200,0.98,184.05,1000,Acceptable
+Cooling Tower Fract G,FRACTIONATION,"Stainless steel, Cuprum, Galvanized",30,624,969.96,38.1,700,0.56,166.77,1000,Acceptable
+Cooling Tower Ref H,PROCESS,Stainless steel,31,1500,658.0,39.5,1200,1.0,184.0,1000,Acceptable
+Cooling Tower Fract I,FRACTIONATION,"Stainless steel, Galvanized",31,2000,1197.6,36.7,1500,0.36,152.9,1000,Acceptable
+Cooling Tower Fract J,FRACTIONATION,"Stainless steel, Galvanized",31,2500,1655.8,31.8,1500,0.76,170.8,10000,Acceptable
+Cooling Tower Ref K,PROCESS,Stainless steel,31,350,311.1,33.9,700,1.11,145.9,1000,Acceptable

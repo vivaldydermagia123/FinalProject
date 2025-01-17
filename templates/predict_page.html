@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Predict Page</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+        background-color: #f5f5f5; /* Warna latar belakang lembut */
+      }
+      .container {
+        max-width: 600px;
+        margin: auto;
+        padding: 20px;
+        background-color: #ffffff;
+        border-radius: 5px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      }
+      h1 {
+        text-align: center;
+        color: #333;
+      }
+      label {
+        display: block;
+        margin-bottom: 5px;
+        font-weight: bold;
+      }
+      input,
+      select {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 15px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+      }
+      button {
+        width: 100%;
+        padding: 10px;
+        background-color: #4caf50;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      button:hover {
+        background-color: #45a049;
+      }
+      .prediction-result {
+        margin-top: 20px;
+        text-align: center;
+        font-size: 1.5em; /* Memperbesar ukuran font */
+        font-weight: bold;
+        color: #4caf50; /* Warna hijau lembut */
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Prediction Form</h1>
+      <form action="/predict" method="POST">
+        <label for="DAY_RUN">DAY_RUN</label>
+        <input type="number" step="0.01" id="DAY_RUN" name="DAY_RUN" required />
+
+        <label for="RR">RR</label>
+        <input type="number" step="0.01" id="RR" name="RR" required />
+
+        <label for="AVG_T_RETURN">AVG_T_RETURN</label>
+        <input type="number" step="0.01" id="AVG_T_RETURN" name="AVG_T_RETURN" required />
+
+        <label for="AVG_FRC">AVG_FRC</label>
+        <input type="number" step="0.01" id="AVG_FRC" name="AVG_FRC" required />
+
+        <label for="AVG_CHLORIDE">AVG_CHLORIDE</label>
+        <input type="number" step="0.01" id="AVG_CHLORIDE" name="AVG_CHLORIDE" required />
+
+        <label for="CONDUCT_LIMIT">CONDUCT_LIMIT</label>
+        <input type="number" step="0.01" id="CONDUCT_LIMIT" name="CONDUCT_LIMIT" required />
+
+        <label for="BACTERIA_STATUS">BACTERIA_STATUS</label>
+        <select id="BACTERIA_STATUS" name="BACTERIA_STATUS" required>
+          <option value="Acceptable">Acceptable</option>
+          <option value="Not Acceptable">Not Acceptable</option>
+        </select>
+
+        <label for="FUNCTION">FUNCTION</label>
+        <select id="FUNCTION" name="FUNCTION" required>
+          <option value="FRACTIONATION">FRACTIONATION</option>
+          <option value="PROCESS">PROCESS</option>
+        </select>
+
+        <label for="MATERIAL">MATERIAL</label>
+        <select id="MATERIAL" name="MATERIAL" multiple size="3" required>
+          <option value="Stainless steel">Stainless steel</option>
+          <option value="Cuprum">Cuprum</option>
+          <option value="Galvanized">Galvanized</option>
+        </select>
+
+        <button type="submit">Predict</button>
+      </form>
+
+      <!-- Hasil prediksi -->
+      <div class="prediction-result">Prediction Average of NaOCl : {{ results }} Kg</div>
+    </div>
+  </body>
+</html>
